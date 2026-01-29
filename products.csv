@@ -1,0 +1,51 @@
+product_id,product_name,category,cost_price,retail_price
+101,Sunscreen - Model Y,Beauty,19.29,27.23
+102,Hair Oil - Model X,Beauty,23.5,30.51
+103,Face Serum - Model Z,Beauty,43.76,53.72
+104,Ceramic Vase - Model X,Home & Garden,15.47,20.69
+105,Yoga Mat - Model X,Sports,30.77,41.69
+106,Blender - Model X,Home & Garden,14.7,20.75
+107,Hoodie - Model Z,Clothing,48.19,63.56
+108,Gaming Headset - Model Z,Electronics,15.43,22.58
+109,Smart Watch - Model X,Electronics,6.29,7.83
+110,Hair Oil - Model Pro,Beauty,22.35,31.35
+111,Sunscreen - Model X,Beauty,41.57,59.33
+112,Lipstick - Model Pro,Beauty,30.99,42.13
+113,4K Monitor - Model X,Electronics,45.45,57.12
+114,Cotton T-Shirt - Model Y,Clothing,14.96,22.38
+115,USB-C Hub - Model Z,Electronics,35.29,48.71
+116,LED Desk Lamp - Model X,Home & Garden,36.73,45.37
+117,Soccer Ball - Model X,Sports,18.42,22.77
+118,USB-C Hub - Model Y,Electronics,39.15,58.39
+119,Coffee Maker - Model Z,Home & Garden,38.37,54.9
+120,Hoodie - Model Y,Clothing,30.64,38.36
+121,Dumbbell Set - Model Y,Sports,35.2,42.89
+122,Hair Oil - Model X,Beauty,13.94,18.01
+123,Tennis Racket - Model Z,Sports,19.08,27.9
+124,Sunscreen - Model Y,Beauty,18.63,24.24
+125,Tennis Racket - Model Y,Sports,48.73,64.64
+126,Wireless Mouse - Model X,Electronics,21.05,29.41
+127,Coffee Maker - Model Pro,Home & Garden,29.76,35.87
+128,4K Monitor - Model Y,Electronics,40.04,59.38
+129,Denim Jacket - Model Z,Clothing,45.14,65.68
+130,Resistance Bands - Model Z,Sports,22.06,29.63
+131,USB-C Hub - Model Pro,Electronics,47.18,67.32
+132,Mechanical Keyboard - Model X,Electronics,27.55,38.13
+133,Water Bottle - Model Pro,Sports,42.88,56.93
+134,Tennis Racket - Model Z,Sports,36.3,45.38
+135,USB-C Hub - Model Y,Electronics,14.37,18.84
+136,Formal Shirt - Model X,Clothing,8.27,11.5
+137,Succulent Pot - Model Pro,Home & Garden,10.34,13.99
+138,Denim Jacket - Model Pro,Clothing,12.26,15.54
+139,Summer Dress - Model Z,Clothing,40.72,58.42
+140,4K Monitor - Model Z,Electronics,19.03,27.98
+141,Summer Dress - Model Z,Clothing,9.44,11.64
+142,Succulent Pot - Model Z,Home & Garden,37.3,52.18
+143,Dumbbell Set - Model Y,Sports,41.99,61.55
+144,Formal Shirt - Model Y,Clothing,9.99,14.08
+145,4K Monitor - Model Y,Electronics,34.72,46.81
+146,Water Bottle - Model X,Sports,23.04,30.53
+147,Tablet - Model Y,Electronics,11.39,14.39
+148,Soccer Ball - Model X,Sports,44.75,57.17
+149,Hair Oil - Model Y,Beauty,41.23,52.21
+150,Yoga Mat - Model Z,Sports,37.46,49.62
